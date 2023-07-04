@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner](link_to_your_banner_image)
+![Profile Banner](https://avatars.githubusercontent.com/u/73470272?v=4)
 
 Hello there! Welcome to my GitHub profile. My name is Matteo, a passionate computer science student at the University of Camerino. I am thrilled to share my journey as a web developer with you.
 
