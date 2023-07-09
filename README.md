@@ -24,9 +24,9 @@ Here are some of the skills that I have acquired during my journey:
 
 I love working on web development projects, and I'm always eager to collaborate and learn from others. Here are a few notable projects I have worked on:
 
-- **Project 1:** Brief description of your project with a link to the repository.
-- **Project 2:** Brief description of your project with a link to the repository.
-- **Project 3:** Brief description of your project with a link to the repository.
+- **Project 1:** [Loyalty Program](https://github.com/matteomorganti/LoyaltyPlatform)
+- **Project 2:** [Swarm Simulator](https://github.com/matteomorganti/sciamePA)
+- **Project 3:** [Library Administration](https://github.com/matteomorganti/library_administration)
 
 Feel free to explore my repositories to see more of my work!
 
@@ -34,8 +34,7 @@ Feel free to explore my repositories to see more of my work!
 
 I am always open to connecting with fellow developers and enthusiasts. If you have any questions, suggestions, or just want to say hello, feel free to reach out to me:
 
-- 📧 Email: your@email.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 📧 Email: matteo.morganti99@gmail.com
 - 🌐 Website: [Your Website](https://www.yourwebsite.com)
 
 Thank you for visiting my profile! I look forward to connecting with you and exploring the world of web development together. Happy coding! 🚀
